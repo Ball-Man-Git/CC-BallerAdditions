@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_tomatotoppin_taunt",
   "bboxMode":0,
   "bbox_bottom":95,
@@ -12,9 +12,9 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"4476ce7e-a60a-4ca7-9c7a-131774a0b72d","name":"4476ce7e-a60a-4ca7-9c7a-131774a0b72d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"ff5d5e47-0445-4851-aeee-e66c6cd5abef","name":"ff5d5e47-0445-4851-aeee-e66c6cd5abef","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"acb85694-c6d9-4d88-9e4b-4633de950a5b","name":"acb85694-c6d9-4d88-9e4b-4633de950a5b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"4476ce7e-a60a-4ca7-9c7a-131774a0b72d","name":"4476ce7e-a60a-4ca7-9c7a-131774a0b72d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"ff5d5e47-0445-4851-aeee-e66c6cd5abef","name":"ff5d5e47-0445-4851-aeee-e66c6cd5abef","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"acb85694-c6d9-4d88-9e4b-4633de950a5b","name":"acb85694-c6d9-4d88-9e4b-4633de950a5b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

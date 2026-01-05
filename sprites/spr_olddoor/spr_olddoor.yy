@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_olddoor",
   "bboxMode":2,
   "bbox_bottom":96,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"6827bf82-90dd-41c3-9681-cdc519fbc2e9","name":"6827bf82-90dd-41c3-9681-cdc519fbc2e9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"6827bf82-90dd-41c3-9681-cdc519fbc2e9","name":"6827bf82-90dd-41c3-9681-cdc519fbc2e9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

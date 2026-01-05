@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_slopeblock",
   "bboxMode":1,
   "bbox_bottom":31,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"e232429f-8dd0-43ed-9541-2bbd5b71d638","name":"e232429f-8dd0-43ed-9541-2bbd5b71d638","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"e232429f-8dd0-43ed-9541-2bbd5b71d638","name":"e232429f-8dd0-43ed-9541-2bbd5b71d638","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

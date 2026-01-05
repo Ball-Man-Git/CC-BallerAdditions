@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_ratblock_small_dead",
   "bboxMode":2,
   "bbox_bottom":63,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"0d1c093d-643e-4d68-b9b5-ee7eb1ec5bf9","name":"0d1c093d-643e-4d68-b9b5-ee7eb1ec5bf9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"0d1c093d-643e-4d68-b9b5-ee7eb1ec5bf9","name":"0d1c093d-643e-4d68-b9b5-ee7eb1ec5bf9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

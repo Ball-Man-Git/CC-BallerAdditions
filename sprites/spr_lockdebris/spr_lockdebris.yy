@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_lockdebris",
   "bboxMode":0,
   "bbox_bottom":72,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"5cead6c2-e934-42e9-91bf-dfb9b5ae52ef","name":"5cead6c2-e934-42e9-91bf-dfb9b5ae52ef","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"5cead6c2-e934-42e9-91bf-dfb9b5ae52ef","name":"5cead6c2-e934-42e9-91bf-dfb9b5ae52ef","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

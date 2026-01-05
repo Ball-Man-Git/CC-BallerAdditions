@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"mask_forkhitbox",
   "bboxMode":0,
   "bbox_bottom":79,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"913d702c-f0da-4038-bf14-c9ed0edec026","name":"913d702c-f0da-4038-bf14-c9ed0edec026","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"913d702c-f0da-4038-bf14-c9ed0edec026","name":"913d702c-f0da-4038-bf14-c9ed0edec026","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

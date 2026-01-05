@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_player_shotgun_fall",
   "bboxMode":0,
   "bbox_bottom":94,
@@ -12,9 +12,9 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"5df1c34c-eeca-45a2-bdee-6e45373a6162","name":"5df1c34c-eeca-45a2-bdee-6e45373a6162","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"df7a6637-20df-47a2-b95c-29dcc0adf8eb","name":"df7a6637-20df-47a2-b95c-29dcc0adf8eb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"4d4fff0b-6fed-457b-a7fd-697288dc5f46","name":"4d4fff0b-6fed-457b-a7fd-697288dc5f46","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"5df1c34c-eeca-45a2-bdee-6e45373a6162","name":"5df1c34c-eeca-45a2-bdee-6e45373a6162","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"df7a6637-20df-47a2-b95c-29dcc0adf8eb","name":"df7a6637-20df-47a2-b95c-29dcc0adf8eb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"4d4fff0b-6fed-457b-a7fd-697288dc5f46","name":"4d4fff0b-6fed-457b-a7fd-697288dc5f46","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

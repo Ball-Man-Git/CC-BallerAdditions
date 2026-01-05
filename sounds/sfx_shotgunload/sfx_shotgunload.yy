@@ -1,17 +1,15 @@
 {
-  "$GMSound":"v2",
+  "$GMSound":"",
   "%Name":"sfx_shotgunload",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "channelFormat":1,
+  "bitRate":128,
   "compression":2,
-  "compressionQuality":4,
   "conversionMode":0,
   "duration":1.2813379,
-  "exportDir":"",
   "name":"sfx_shotgunload",
   "parent":{
     "name":"SFX",
@@ -22,5 +20,6 @@
   "resourceVersion":"2.0",
   "sampleRate":48000,
   "soundFile":"sfx_shotgunload.ogg",
+  "type":1,
   "volume":1.0,
 }

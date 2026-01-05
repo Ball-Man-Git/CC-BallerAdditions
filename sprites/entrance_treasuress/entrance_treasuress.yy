@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"entrance_treasuress",
   "bboxMode":0,
   "bbox_bottom":548,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"59de745e-2df1-4f12-9bdf-2b9b9c253827","name":"59de745e-2df1-4f12-9bdf-2b9b9c253827","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"59de745e-2df1-4f12-9bdf-2b9b9c253827","name":"59de745e-2df1-4f12-9bdf-2b9b9c253827","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

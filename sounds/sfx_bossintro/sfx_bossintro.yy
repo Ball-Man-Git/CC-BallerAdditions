@@ -1,17 +1,15 @@
 {
-  "$GMSound":"v2",
+  "$GMSound":"",
   "%Name":"sfx_bossintro",
   "audioGroupId":{
     "name":"ag_sfx",
     "path":"audiogroups/ag_sfx",
   },
   "bitDepth":1,
-  "channelFormat":1,
+  "bitRate":128,
   "compression":0,
-  "compressionQuality":4,
   "conversionMode":0,
   "duration":4.14,
-  "exportDir":"",
   "name":"sfx_bossintro",
   "parent":{
     "name":"SFX",
@@ -22,5 +20,6 @@
   "resourceVersion":"2.0",
   "sampleRate":48000,
   "soundFile":"sfx_bossintro.wav",
+  "type":1,
   "volume":1.0,
 }

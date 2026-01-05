@@ -1,17 +1,15 @@
 {
-  "$GMSound":"v2",
+  "$GMSound":"",
   "%Name":"sfx_superjumpcancel",
   "audioGroupId":{
     "name":"ag_sfx",
     "path":"audiogroups/ag_sfx",
   },
   "bitDepth":1,
-  "channelFormat":1,
+  "bitRate":128,
   "compression":2,
-  "compressionQuality":4,
   "conversionMode":0,
   "duration":1.0371882,
-  "exportDir":"",
   "name":"sfx_superjumpcancel",
   "parent":{
     "name":"SFX",
@@ -22,5 +20,6 @@
   "resourceVersion":"2.0",
   "sampleRate":48000,
   "soundFile":"sfx_superjumpcancel.ogg",
+  "type":1,
   "volume":1.0,
 }

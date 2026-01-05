@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_keydoor",
   "bboxMode":0,
   "bbox_bottom":99,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"bf2d669f-bc4a-43f3-bc81-e2d10f45da08","name":"bf2d669f-bc4a-43f3-bc81-e2d10f45da08","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"1cea3ea5-2b11-4cdc-b2df-11fb733b5a33","name":"1cea3ea5-2b11-4cdc-b2df-11fb733b5a33","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"bf2d669f-bc4a-43f3-bc81-e2d10f45da08","name":"bf2d669f-bc4a-43f3-bc81-e2d10f45da08","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"1cea3ea5-2b11-4cdc-b2df-11fb733b5a33","name":"1cea3ea5-2b11-4cdc-b2df-11fb733b5a33","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

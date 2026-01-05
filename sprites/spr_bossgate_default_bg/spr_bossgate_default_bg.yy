@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_bossgate_default_bg",
   "bboxMode":2,
   "bbox_bottom":96,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"fca6c7cb-7bd1-4f56-88e5-c9f4ea57e14e","name":"fca6c7cb-7bd1-4f56-88e5-c9f4ea57e14e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"fca6c7cb-7bd1-4f56-88e5-c9f4ea57e14e","name":"fca6c7cb-7bd1-4f56-88e5-c9f4ea57e14e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

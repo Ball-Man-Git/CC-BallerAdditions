@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"tilespr_tower",
   "bboxMode":0,
   "bbox_bottom":1471,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"c5f08637-35cc-4634-9452-3198941c09ef","name":"c5f08637-35cc-4634-9452-3198941c09ef","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"c5f08637-35cc-4634-9452-3198941c09ef","name":"c5f08637-35cc-4634-9452-3198941c09ef","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

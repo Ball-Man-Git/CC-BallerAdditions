@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"entrance_secret4sss",
   "bboxMode":0,
   "bbox_bottom":1839,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"b364b639-fd07-4c0b-9aea-1a8b3ef5f6b6","name":"b364b639-fd07-4c0b-9aea-1a8b3ef5f6b6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"b364b639-fd07-4c0b-9aea-1a8b3ef5f6b6","name":"b364b639-fd07-4c0b-9aea-1a8b3ef5f6b6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

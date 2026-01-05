@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_tutorialbubble_bg",
   "bboxMode":0,
   "bbox_bottom":138,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"8ef2330f-a9f0-4941-a87a-1fd92ffdb9e5","name":"8ef2330f-a9f0-4941-a87a-1fd92ffdb9e5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"8ef2330f-a9f0-4941-a87a-1fd92ffdb9e5","name":"8ef2330f-a9f0-4941-a87a-1fd92ffdb9e5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

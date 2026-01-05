@@ -30,7 +30,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v2","%Name":"toppin","filters":[],"listItems":[
+    {"$GMObjectProperty":"v1","%Name":"toppin","filters":[],"listItems":[
         "toppin_enum.shroom",
         "toppin_enum.cheese",
         "toppin_enum.tomato",

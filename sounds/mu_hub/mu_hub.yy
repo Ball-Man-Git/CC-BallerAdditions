@@ -1,17 +1,15 @@
 {
-  "$GMSound":"v2",
+  "$GMSound":"",
   "%Name":"mu_hub",
   "audioGroupId":{
     "name":"ag_music",
     "path":"audiogroups/ag_music",
   },
   "bitDepth":1,
-  "channelFormat":1,
+  "bitRate":128,
   "compression":2,
-  "compressionQuality":4,
   "conversionMode":0,
   "duration":158.37698,
-  "exportDir":"",
   "name":"mu_hub",
   "parent":{
     "name":"Music",
@@ -22,5 +20,6 @@
   "resourceVersion":"2.0",
   "sampleRate":48000,
   "soundFile":"mu_hub.wav",
+  "type":1,
   "volume":1.0,
 }

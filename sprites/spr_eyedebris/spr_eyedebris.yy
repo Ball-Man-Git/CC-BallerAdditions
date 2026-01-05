@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_eyedebris",
   "bboxMode":0,
   "bbox_bottom":29,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"d03b2d48-1d40-4dd1-a40a-0c887879ccfd","name":"d03b2d48-1d40-4dd1-a40a-0c887879ccfd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"d03b2d48-1d40-4dd1-a40a-0c887879ccfd","name":"d03b2d48-1d40-4dd1-a40a-0c887879ccfd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

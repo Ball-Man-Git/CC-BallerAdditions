@@ -1,17 +1,15 @@
 {
-  "$GMSound":"v2",
+  "$GMSound":"",
   "%Name":"mu_rankb",
   "audioGroupId":{
     "name":"ag_music",
     "path":"audiogroups/ag_music",
   },
   "bitDepth":1,
-  "channelFormat":1,
+  "bitRate":128,
   "compression":2,
-  "compressionQuality":4,
   "conversionMode":0,
   "duration":15.627029,
-  "exportDir":"",
   "name":"mu_rankb",
   "parent":{
     "name":"Music",
@@ -22,5 +20,6 @@
   "resourceVersion":"2.0",
   "sampleRate":48000,
   "soundFile":"mu_rankb.ogg",
+  "type":1,
   "volume":1.0,
 }

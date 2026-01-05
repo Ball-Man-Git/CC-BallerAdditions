@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_tutorialbubble_rope",
   "bboxMode":0,
   "bbox_bottom":60,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"c5f2c39e-a275-45ae-8ac4-85588c7cbdc8","name":"c5f2c39e-a275-45ae-8ac4-85588c7cbdc8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"c5f2c39e-a275-45ae-8ac4-85588c7cbdc8","name":"c5f2c39e-a275-45ae-8ac4-85588c7cbdc8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

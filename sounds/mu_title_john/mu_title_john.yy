@@ -1,17 +1,15 @@
 {
-  "$GMSound":"v2",
+  "$GMSound":"",
   "%Name":"mu_title_john",
   "audioGroupId":{
     "name":"ag_music",
     "path":"audiogroups/ag_music",
   },
   "bitDepth":1,
-  "channelFormat":1,
+  "bitRate":128,
   "compression":2,
-  "compressionQuality":4,
   "conversionMode":0,
   "duration":3.1440136,
-  "exportDir":"",
   "name":"mu_title_john",
   "parent":{
     "name":"Music",
@@ -22,5 +20,6 @@
   "resourceVersion":"2.0",
   "sampleRate":48000,
   "soundFile":"mu_title_john.mp3",
+  "type":1,
   "volume":0.6,
 }

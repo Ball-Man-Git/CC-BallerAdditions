@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_bossportrait_peppinoshadow",
   "bboxMode":0,
   "bbox_bottom":356,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"49b28aac-0815-4f60-afd2-86f41e1dc58a","name":"49b28aac-0815-4f60-afd2-86f41e1dc58a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"49b28aac-0815-4f60-afd2-86f41e1dc58a","name":"49b28aac-0815-4f60-afd2-86f41e1dc58a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

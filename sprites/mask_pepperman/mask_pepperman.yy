@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"mask_pepperman",
   "bboxMode":0,
   "bbox_bottom":142,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"beca1bea-5297-4050-84b6-d2f17f5fc0b4","name":"beca1bea-5297-4050-84b6-d2f17f5fc0b4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"beca1bea-5297-4050-84b6-d2f17f5fc0b4","name":"beca1bea-5297-4050-84b6-d2f17f5fc0b4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

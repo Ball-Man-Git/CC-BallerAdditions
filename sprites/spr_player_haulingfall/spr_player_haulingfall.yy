@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_player_haulingfall",
   "bboxMode":0,
   "bbox_bottom":91,
@@ -12,9 +12,9 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"041c7556-f7ce-4ccb-8f94-9bb8433214d6","name":"041c7556-f7ce-4ccb-8f94-9bb8433214d6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"98ac082a-affd-474d-89fa-99bfa1b7a84b","name":"98ac082a-affd-474d-89fa-99bfa1b7a84b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"ebf3ae98-3a53-4c9d-bd55-59eb19a220ac","name":"ebf3ae98-3a53-4c9d-bd55-59eb19a220ac","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"041c7556-f7ce-4ccb-8f94-9bb8433214d6","name":"041c7556-f7ce-4ccb-8f94-9bb8433214d6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"98ac082a-affd-474d-89fa-99bfa1b7a84b","name":"98ac082a-affd-474d-89fa-99bfa1b7a84b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"ebf3ae98-3a53-4c9d-bd55-59eb19a220ac","name":"ebf3ae98-3a53-4c9d-bd55-59eb19a220ac","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

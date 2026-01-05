@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_bossportrait_pepperman",
   "bboxMode":0,
   "bbox_bottom":464,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"ab20d762-a217-4e20-ac6a-7ea5b0b2ce57","name":"ab20d762-a217-4e20-ac6a-7ea5b0b2ce57","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"ab20d762-a217-4e20-ac6a-7ea5b0b2ce57","name":"ab20d762-a217-4e20-ac6a-7ea5b0b2ce57","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"bg_medieval2",
   "bboxMode":0,
   "bbox_bottom":357,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"d7b41320-c710-430b-a4e5-e24b482e388a","name":"d7b41320-c710-430b-a4e5-e24b482e388a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"d7b41320-c710-430b-a4e5-e24b482e388a","name":"d7b41320-c710-430b-a4e5-e24b482e388a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

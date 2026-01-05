@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_pizzaportal_outline",
   "bboxMode":0,
   "bbox_bottom":172,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"fad4afbd-4b10-4e2b-b04f-9bc5940254c1","name":"fad4afbd-4b10-4e2b-b04f-9bc5940254c1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"fad4afbd-4b10-4e2b-b04f-9bc5940254c1","name":"fad4afbd-4b10-4e2b-b04f-9bc5940254c1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

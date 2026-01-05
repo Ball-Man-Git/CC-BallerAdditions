@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_oldpizzabox",
   "bboxMode":0,
   "bbox_bottom":95,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"57eefca5-aae9-49ea-b7f7-43cea5a21a77","name":"57eefca5-aae9-49ea-b7f7-43cea5a21a77","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"57eefca5-aae9-49ea-b7f7-43cea5a21a77","name":"57eefca5-aae9-49ea-b7f7-43cea5a21a77","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

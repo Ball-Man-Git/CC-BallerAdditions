@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_metalblock_secret",
   "bboxMode":0,
   "bbox_bottom":63,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"ccbebf52-e69c-419d-bd4f-835dd2cd5261","name":"ccbebf52-e69c-419d-bd4f-835dd2cd5261","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"ccbebf52-e69c-419d-bd4f-835dd2cd5261","name":"ccbebf52-e69c-419d-bd4f-835dd2cd5261","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

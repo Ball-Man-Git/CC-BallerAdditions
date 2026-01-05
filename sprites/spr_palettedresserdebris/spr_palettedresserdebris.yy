@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_palettedresserdebris",
   "bboxMode":0,
   "bbox_bottom":83,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"800fa8eb-815e-4845-8222-46f8b6c0ffb3","name":"800fa8eb-815e-4845-8222-46f8b6c0ffb3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"800fa8eb-815e-4845-8222-46f8b6c0ffb3","name":"800fa8eb-815e-4845-8222-46f8b6c0ffb3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

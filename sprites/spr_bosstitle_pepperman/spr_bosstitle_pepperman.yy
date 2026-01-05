@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_bosstitle_pepperman",
   "bboxMode":0,
   "bbox_bottom":149,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"95147741-fc57-4a4b-b9b8-7b446a01ca1f","name":"95147741-fc57-4a4b-b9b8-7b446a01ca1f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"95147741-fc57-4a4b-b9b8-7b446a01ca1f","name":"95147741-fc57-4a4b-b9b8-7b446a01ca1f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_rattumbleblock_dead",
   "bboxMode":2,
   "bbox_bottom":125,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"a296f2e9-cbf5-434e-b9a6-83c12d1741ee","name":"a296f2e9-cbf5-434e-b9a6-83c12d1741ee","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"a296f2e9-cbf5-434e-b9a6-83c12d1741ee","name":"a296f2e9-cbf5-434e-b9a6-83c12d1741ee","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
