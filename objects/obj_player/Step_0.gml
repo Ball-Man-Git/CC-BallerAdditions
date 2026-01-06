@@ -146,7 +146,7 @@ if hitstun < 0
 		case states.ball:
 			player_ball()
 			break;
-		case states.slip
+		case states.slip:
 			player_slip()
 			break;
 	}

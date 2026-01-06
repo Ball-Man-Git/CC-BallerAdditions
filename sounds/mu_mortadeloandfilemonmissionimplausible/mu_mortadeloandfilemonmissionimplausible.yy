@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mu_mortadeloandfilemonmissionimplausible",
+  "audioGroupId":{
+    "name":"ag_music",
+    "path":"audiogroups/ag_music",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":2,
+  "conversionMode":0,
+  "duration":124.48218,
+  "name":"mu_mortadeloandfilemonmissionimplausible",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"mu_mortadeloandfilemonmissionimplausible.mp3",
+  "type":1,
+  "volume":1.0,
+}

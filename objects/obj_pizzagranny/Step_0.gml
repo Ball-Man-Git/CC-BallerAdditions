@@ -1,6 +1,7 @@
 talking = state != 0
 
-sprite_index = talking ? spr_pizzagranny_talk : spr_pizzagranny_sleep
+sprite_index = talking ? talkspr : sleepspr
+var talkvariations = irandom_range(1, 3)
 
 switch (state)
 {
@@ -9,6 +10,10 @@ switch (state)
 		if (obj_player.state != states.backtohub && place_meeting(x, y, obj_player))
 		{
 			state = 1
+			audio_stop_sound(voice1)
+			audio_stop_sound(voice2)
+			audio_stop_sound(voice3)
+			scr_sound_3d(asset_get_index(string_concat("voice", slipend_variations)), x, y)
 			vsp = 0
 		}
 		break;

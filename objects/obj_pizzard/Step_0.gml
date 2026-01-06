@@ -13,8 +13,6 @@ if escape_frozen
 
 do_enemy_generics()
 
-if obj_player.taunttimer >= 20
-	cooldown = 0
 
 if (cooldown <= 0 && distance_to_object(obj_player) <= 300 && state == states.normal)
 {

@@ -52,3 +52,12 @@ bg_pos = {
 }
 
 bubble_surf = noone
+
+showgranny = true
+
+sleepspr = spr_pizzagranny_sleep
+talkspr = spr_pizzagranny_talk
+
+voice1 = sfx_pizzagranny1
+voice2 = sfx_pizzagranny2
+voice3 = sfx_pizzagranny3
