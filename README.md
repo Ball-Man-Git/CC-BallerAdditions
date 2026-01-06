@@ -1,3 +1,5 @@
+# THIS IS BROKEN, SOMETHING CAUSED IT TO STOP WORKING, DON'T USE THIS
+
 # CompleteCook
  
 This engine is open source built from mostly from scratch code meant to rectify decomps having too much assets.
